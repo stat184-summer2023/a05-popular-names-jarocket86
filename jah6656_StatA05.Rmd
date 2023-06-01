@@ -74,7 +74,7 @@ Sex because only male names are shown.
 
 ##### What variable(s) in the graph are similar to corresponding variables in the raw data table, but might have been transformed in some way?
 
-My answer here.... 
+No variables appear to be transformed because the only variables that exist are year, name, and count. 
 
 
 ### Step 4
@@ -86,12 +86,12 @@ Male names that are not Abraham, Woodrow, or Franklin.
 
 ##### Have cases been grouped and summarized within groups in any way?
 
-My answer here.... 
+They were grouped by name and year then the count for each was summarized. 
 
 
 ##### Have any new variables been introduced?  If so, what the relationship between the new variables and existing variables?
 
-My answer here.... 
+No new variables have been introduced and no variables have been mutated. 
 
 
 ### Step 5
