@@ -86,7 +86,7 @@ Male names that are not Abraham, Woodrow, or Franklin.
 
 ##### Have cases been grouped and summarized within groups in any way?
 
-They were grouped by name and year then the count for each was summarized. 
+They were grouped by name and year then the count for each year was summarized. 
 
 
 ##### Have any new variables been introduced?  If so, what the relationship between the new variables and existing variables?
